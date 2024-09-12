@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My College</string>
+    <string name="enter_details_to_login">Enter Details to Log In</string>
+    <string name="enter_details_to_register">Enter Details to Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_password"> Create Password</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="if_already_have_an_account">If already have an Account!</string>
+    <string name="if_already_have_an_account_log_in">If already have an Account, Log In</string>
+    <string name="don_t_have_an_account_sign_up"><u>Sign Up</u></string>
+    <string name="log_in"><u>Log In</u></string>
+    <string name="log_out">Log Out</string>
+    <string name="laec_bidar">LAEC,Bidar</string>
+    <string name="hyperlink">Google Drive links to access B.E. Notes 📚 \n<a href="https://drive.google.com/drive/folders/1yxdj_LADNCsolGq2cl1vq9b4QcsaaAR8?usp=sharing">I Year</a> , <a href="https://drive.google.com/drive/folders/1JnWEcXljQ8bhQizWqYAmOCsTkNo107Ov?usp=sharing">II Year(CS)</a> , <a href="https://drive.google.com/drive/folders/1bgeUWzyFdcT0cm_RGXJiriZWTHIgLqH4?usp=sharing">III Year(CS)</a></string>
+    <string name="about_us"> LINGARAJ APPA ENGINEERING COLLEGE runs under the \n SHARANABASAVESHWAR VIDYA VARDHAK SANGHA,KALABURAGI. \n President: Poojya Dr.Sharanabasawappa Appaji \n Secretary: Shri.Basawaraj Deshmukh \n Principal: Dr.Vinita Pratapur</string>
+    <string name="hyperlink1">Stay tuned for events happening in college,\n Subscribe⬇️\n<a href="https://youtube.com/@laec_bidar11?si=r5osmTyksRD75r5z">Youtube▶</a></string>
+    <string name="todo">TODO</string>
+    <string name="contact_us">Contact Us : lingarajappaengg@gmail.com \n <a href="https://www.lingaraj-appaec.in/">laec.in</a> </string>
+    <string name="web">(Visit website to know more)</string>
+    <string name="already_have_an_account">Already have an Account!</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="rp">Provide your account\'s email for which you want to reset your password!</string>
+    <string name="emaill">Email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="back">Back</string>
+    <string name="fp">Forgot Password ?</string>
+</resources>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dw1"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:textAlignment="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/user_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="46dp"
+        android:layout_height="wrap_content" />
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="121dp"
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/front_page" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="@string/laec_bidar"
+        android:textAlignment="center"
+        android:textColor="#FF1100"
+        android:textSize="25sp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="411dp"
+        android:layout_height="88dp"
+        android:gravity="center"
+        android:text="@string/about_us"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+
+    <TextView
+        android:layout_width="46dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/activity_main_link"
+        android:layout_width="411dp"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="46dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/activity_main_link1"
+        android:layout_width="411dp"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink1"
+        android:textAlignment="center"
+        android:textColor="#FAEB6D"
+        android:textSize="20sp"
+        android:textStyle="italic" />
+    <TextView
+        android:layout_width="46dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/activity_main_link2"
+        android:layout_width="411dp"
+        android:layout_height="wrap_content"
+        android:text="@string/contact_us"
+        android:textAlignment="center"
+        android:textColor="#129003"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="411dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/web"
+        android:textColor="#129003"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="46dp"
+        android:layout_height="20dp" />
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/log_out" />
+
+
+</LinearLayout>
